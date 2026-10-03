@@ -1,6 +1,5 @@
+//Max Hicks
 package com.soit.enterprise;
-
-
 import com.soit.enterprise.model.Faculty;
 import jakarta.annotation.PostConstruct;
 import org.springframework.stereotype.Controller;
